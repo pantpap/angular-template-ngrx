@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Store } from '@ngrx/store';
-import * as fromActions from './store/actions';
 import { GlobalFacadeService } from './store/global-facade.service';
 
 @Component({
